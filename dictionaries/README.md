@@ -1,4 +1,5 @@
-# Multilingual Dictionaries of Morality-Indicating Words
+# Multilingual Dictionaries of Morality Indicating Words
+
 Last Update: 07.07.2023
 
 Author & contact: Maria Becker (maria.becker@gs.uni-heidelberg.de)
@@ -25,7 +26,7 @@ Moreover, for each dictionary we provide a subset of particularly typical moral-
 
 ---
 
-**Multilinguale Wörterbücher moralindizierender Vokabeln**
+**Multilinguales Wörterbücher moralindizierender Vokabeln**
 
 Verweise auf moralische Werte mittels Hochwert- bzw. Delimitationswörtern wie bspw. Freiheit, gleichberechtigt, Ungerechtigkeit oder unlauter sind eine wesentliche Eigenschaft von Moralisierungen. Diese Schlagwörter lassen sich bereits auf der Textoberfläche erkennen. Daher bieten sie sich zur automatisierten Detektion (möglicher) Moralisierungen an. Dementsprechend wurden auch in dem Projekt Annotation und automatische Analyse von Moralisierungspraktiken in verschiedenen Wissensdomänen Hochwert- bzw. Delimitationswörter zur Erstellung der Korpora moralisierender Sprachhandlungen verwendet. 
 
